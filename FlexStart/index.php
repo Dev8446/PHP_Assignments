@@ -42,7 +42,7 @@
   <header id="header" class="header fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="index.php" class="logo d-flex align-items-center">
         <img src="assets/img/logo.png" alt="">
         <span>FlexStart</span>
       </a>
@@ -54,7 +54,7 @@
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li><a href="blog.html">Blog</a></li>
+          <li><a href="blog.php">Blog</a></li>
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -736,7 +736,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 1"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -750,7 +750,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -764,7 +764,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -778,7 +778,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -792,7 +792,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -806,7 +806,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -820,7 +820,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 1"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -834,7 +834,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -848,7 +848,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
@@ -1099,7 +1099,7 @@
               <div class="post-img"><img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt=""></div>
               <span class="post-date">Tue, September 15</span>
               <h3 class="post-title">Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit</h3>
-              <a href="blog-single.html" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              <a href="blog-single.php" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -1108,7 +1108,7 @@
               <div class="post-img"><img src="assets/img/blog/blog-2.jpg" class="img-fluid" alt=""></div>
               <span class="post-date">Fri, August 28</span>
               <h3 class="post-title">Et repellendus molestiae qui est sed omnis voluptates magnam</h3>
-              <a href="blog-single.html" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              <a href="blog-single.php" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -1117,7 +1117,7 @@
               <div class="post-img"><img src="assets/img/blog/blog-3.jpg" class="img-fluid" alt=""></div>
               <span class="post-date">Mon, July 11</span>
               <h3 class="post-title">Quia assumenda est et veritatis aut quae</h3>
-              <a href="blog-single.html" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+              <a href="blog-single.php" class="readmore stretched-link mt-auto"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -1238,7 +1238,7 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-5 col-md-12 footer-info">
-            <a href="index.html" class="logo d-flex align-items-center">
+            <a href="index.php" class="logo d-flex align-items-center">
               <img src="assets/img/logo.png" alt="">
               <span>FlexStart</span>
             </a>
